@@ -2,4 +2,9 @@
     <string name="app_name">Demo Second App</string>
     <string name="b1">Button 1</string>
     <string name="b2">Button 2</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="rf">Registration Form</string>
+    <string name="wlc">Welcome to Adventure Learning Club!</string>
 </resources>
